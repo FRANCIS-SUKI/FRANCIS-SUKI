@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Francis Wangu
-<!--I'm a an Applied Mathematician working with a Government Agency as a Research intern>
+<!--I'm a an Applied Mathematician/Statistician working with a Government Agency as a Research intern>
+My ambition is to continue learning different programming languages highly applicable in the real world espacially in my field of interest(data analytics)
 
 **FRANCIS-SUKI/FRANCIS-SUKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
