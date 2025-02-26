@@ -1,7 +1,9 @@
 ## Hi there 👋
-My name is Francis Wangu
-I'm a an Applied Mathematician/Statistician working with a Government Agency as a Research intern
+My name is Francis Wangu.
+I'm an Applied Mathematician/Statistician working with a Government Agency as a Research intern.
 My ambition is to continue learning different programming languages highly applicable in the real world espacially in my field of interest(data analytics)
+I'm currently studying Java,python angd SQL.
+You can reach me via my official email wangufrancis5@gmail.com
 <!--
 
 
